@@ -6,7 +6,7 @@ In this bootcamp challenge, students were tasked with creating a weather dashboa
 
 ##Usage
 
-Copy and past the link in the address bar. 
+Copy and past the link in the address bar: https://ceca24.github.io/weather-dashboard/ 
 
 You will be able to click on the "Find a City" section, located on the upper left hand corner of the webpage, and type in the city you would like to see current weather conditions for. Once populated, there will display the 5-day forecast as well. The webpage will looks similar to the screenshot:
 
