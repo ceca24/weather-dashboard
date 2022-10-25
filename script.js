@@ -1,8 +1,8 @@
-var myAPIKey = "ba9ea14c2a8aeed674bb0ecf23b1bb52";
+var myAPIKey = "686e7d11188ff94eccae01a97924a5fc";
 
 var searchArray = [];
 
-// var userInput = ""
+//var is for the user input on which city to look up
 
 var cityName = "";
 
