@@ -54,7 +54,7 @@ var handleSubmit = function () {
     });
 
     var getFiveDayForecast = function (lat, lon) {
-    var apiUrl = `https://api.openweathermap.org/data/2.5/forecast?lat=${lat}&lon=${lon}&units=imperial&appid=4709f071f7e8e51ca2c428e9f96726ca`;
+    var apiUrl = `https://api.openweathermap.org/data/2.5/forecast?lat=${lat}&lon=${lon}&units=imperial&appid=686e7d11188ff94eccae01a97924a5fc`;
     fetch(apiUrl)
     .then(function (response) {
         return response.json();
